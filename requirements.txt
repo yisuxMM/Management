@@ -4,3 +4,4 @@ pymongo
 sendgrid
 itsdangerous
 python-dotenv
+gunicorn

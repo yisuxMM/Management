@@ -1,0 +1,6 @@
+Flask
+flask-bcrypt
+pymongo
+sendgrid
+itsdangerous
+python-dotenv
